@@ -1,6 +1,9 @@
 # ReactMeals
 ReactMeals is a food ordering web app with a cart checkout. You can add/remove to a cart modal, place an order, order data/user data is receied to a database. 
 
+https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+
+
 Made with: 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45px" />
